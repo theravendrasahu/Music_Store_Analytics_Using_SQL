@@ -48,5 +48,5 @@ The project is divided into three sections based on query complexity:
 
 ## **Contact**
 For any questions or feedback, feel free to connect:  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)  
-- **Email:** [Your Email Address](mailto:your_email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/theravendrasahu))  
+- **Email:** [Your Email Address]((https://www.linkedin.com/in/theravendrasahu))
