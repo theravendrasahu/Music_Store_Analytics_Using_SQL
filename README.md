@@ -49,4 +49,4 @@ The project is divided into three sections based on query complexity:
 ## **Contact**
 For any questions or feedback, feel free to connect:  
 - **LinkedIn:** https://www.linkedin.com/in/theravendrasahu
-- **Email:** https://www.linkedin.com/in/theravendrasahu
+- **Email:** sahuravendra0@gmail.com
